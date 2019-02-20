@@ -1,11 +1,11 @@
-#Starter web project
+# Starter web project
 
-#purpose
+#  purpose
 
-#reasons 
+# reasons 
 
-#other things
+# other things
 
-#contributing
+# contributing
 
 you cant haha
