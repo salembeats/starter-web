@@ -18,3 +18,7 @@ more changes
 # contributing
 
 you cant haha
+
+# copyrighting
+
+we added one now
