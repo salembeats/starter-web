@@ -22,3 +22,7 @@ you cant haha
 # copyrighting
 
 we added one now
+
+## How to do things
+
+just do it
